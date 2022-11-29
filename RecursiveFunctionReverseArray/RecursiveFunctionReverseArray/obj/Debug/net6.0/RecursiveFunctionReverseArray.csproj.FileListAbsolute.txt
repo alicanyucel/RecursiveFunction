@@ -1,0 +1,15 @@
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\bin\Debug\net6.0\RecursiveFunctionReverseArray.exe
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\bin\Debug\net6.0\RecursiveFunctionReverseArray.deps.json
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\bin\Debug\net6.0\RecursiveFunctionReverseArray.runtimeconfig.json
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\bin\Debug\net6.0\RecursiveFunctionReverseArray.dll
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\bin\Debug\net6.0\RecursiveFunctionReverseArray.pdb
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\obj\Debug\net6.0\RecursiveFunctionReverseArray.csproj.AssemblyReference.cache
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\obj\Debug\net6.0\RecursiveFunctionReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\obj\Debug\net6.0\RecursiveFunctionReverseArray.AssemblyInfoInputs.cache
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\obj\Debug\net6.0\RecursiveFunctionReverseArray.AssemblyInfo.cs
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\obj\Debug\net6.0\RecursiveFunctionReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\obj\Debug\net6.0\RecursiveFunctionReverseArray.dll
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\obj\Debug\net6.0\refint\RecursiveFunctionReverseArray.dll
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\obj\Debug\net6.0\RecursiveFunctionReverseArray.pdb
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\obj\Debug\net6.0\RecursiveFunctionReverseArray.genruntimeconfig.cache
+C:\Users\Alican\source\Repos\RecursiveFunctionReverseArray\RecursiveFunctionReverseArray\obj\Debug\net6.0\ref\RecursiveFunctionReverseArray.dll
